@@ -1,6 +1,6 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-09-27T01:54:53",
+  "generated_at": "2026-10-08T14:40:08",
   "vehicle_count": 628,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -16,7 +16,9 @@
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 110982,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2005ToyotaCorolla",
@@ -29,7 +31,9 @@
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 110982,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2009FordRanger",
@@ -42,7 +46,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 164929,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2009FordRanger",
@@ -55,7 +61,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 164929,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2010FordEscape",
@@ -66,7 +74,9 @@
       "dealer_url": "https://keywestford.com/inventory/2010-ford-escape/14820197?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:49:06",
       "odometer_km": 258099,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2010FordEscape",
@@ -77,7 +87,9 @@
       "dealer_url": "https://keywestford.com/inventory/2010-ford-escape/14820197?openModal=modal-vdp-form-1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:49:13",
       "odometer_km": 258099,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2010FordF-150",
@@ -88,7 +100,9 @@
       "dealer_url": "https://keywestford.com/inventory/2010-ford-f-150/14836973?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:47:01",
       "odometer_km": 277000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2010FordF-150",
@@ -99,7 +113,9 @@
       "dealer_url": "https://keywestford.com/inventory/2010-ford-f-150/14836973?openModal=modal-vdp-form-1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:47:13",
       "odometer_km": 277000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2012NissanMurano",
@@ -112,7 +128,9 @@
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 172852,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2012NissanMurano",
@@ -125,7 +143,9 @@
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 172852,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2012VolkswagenBeetle",
@@ -139,7 +159,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 155209,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2012VolkswagenBeetle",
@@ -153,7 +175,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 155209,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013FordEscape",
@@ -166,7 +190,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 167099,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013FordEscape",
@@ -179,7 +205,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 167099,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013KiaSportage",
@@ -192,7 +220,9 @@
       "price": 9995.0,
       "price_currency": "CAD",
       "odometer_km": 130338,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013KiaSportage",
@@ -205,7 +235,9 @@
       "price": 9995.0,
       "price_currency": "CAD",
       "odometer_km": 130338,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013ToyotaVenza",
@@ -218,7 +250,9 @@
       "price": 15995.0,
       "price_currency": "CAD",
       "odometer_km": 147537,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2013ToyotaVenza",
@@ -231,7 +265,9 @@
       "price": 15995.0,
       "price_currency": "CAD",
       "odometer_km": 147537,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2015HyundaiAccent",
@@ -244,7 +280,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 143478,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2015HyundaiAccent",
@@ -257,7 +295,9 @@
       "price": 11995.0,
       "price_currency": "CAD",
       "odometer_km": 143478,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2015LexusNX 200t",
@@ -270,7 +310,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 102670,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2015LexusNX 200t",
@@ -283,7 +325,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 102670,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2016FordF-150",
@@ -296,7 +340,9 @@
       "price": 31995.0,
       "price_currency": "CAD",
       "odometer_km": 137345,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2016FordF-150",
@@ -309,7 +355,9 @@
       "price": 31995.0,
       "price_currency": "CAD",
       "odometer_km": 137345,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2016FordF-150",
@@ -322,7 +370,9 @@
       "price": 24995.0,
       "price_currency": "CAD",
       "odometer_km": 140500,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2016FordF-150",
@@ -335,7 +385,9 @@
       "price": 24995.0,
       "price_currency": "CAD",
       "odometer_km": 140500,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017ChevroletCruze",
@@ -348,7 +400,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 103970,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017ChevroletCruze",
@@ -361,7 +415,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 103970,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017FordEscape",
@@ -374,7 +430,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 116809,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017FordEscape",
@@ -387,7 +445,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 116809,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017HondaAccord",
@@ -401,7 +461,9 @@
       "price": 22995.0,
       "price_currency": "CAD",
       "odometer_km": 119789,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017HondaAccord",
@@ -415,7 +477,9 @@
       "price": 22995.0,
       "price_currency": "CAD",
       "odometer_km": 119789,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017Land RoverRange Rover",
@@ -428,7 +492,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 109751,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017Land RoverRange Rover",
@@ -441,7 +507,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 109751,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017NissanMurano",
@@ -454,7 +522,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 160000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017NissanMurano",
@@ -467,7 +537,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 160000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017VolkswagenJetta",
@@ -480,7 +552,9 @@
       "price": 12995.0,
       "price_currency": "CAD",
       "odometer_km": 204868,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2017VolkswagenJetta",
@@ -493,7 +567,9 @@
       "price": 12995.0,
       "price_currency": "CAD",
       "odometer_km": 204868,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018AudiA6",
@@ -507,7 +583,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 100355,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018AudiA6",
@@ -521,7 +599,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 100355,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018CadillacEscalade ESV",
@@ -532,7 +612,9 @@
       "dealer_url": "https://keywestford.com/inventory/2018-cadillac-escalade-esv/14836970?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:47:40",
       "odometer_km": 194626,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018CadillacEscalade ESV",
@@ -543,7 +625,9 @@
       "dealer_url": "https://keywestford.com/inventory/2018-cadillac-escalade-esv/14836970?openModal=modal-vdp-form-1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T01:47:52",
       "odometer_km": 194626,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018ChevroletCruze",
@@ -556,7 +640,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 73905,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018ChevroletCruze",
@@ -569,7 +655,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 73905,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018InfinitiQX60",
@@ -582,7 +670,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 165326,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018InfinitiQX60",
@@ -595,7 +685,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 165326,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018KiaForte",
@@ -608,7 +700,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 118589,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018KiaForte",
@@ -621,7 +715,9 @@
       "price": 14995.0,
       "price_currency": "CAD",
       "odometer_km": 118589,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018Toyota4Runner",
@@ -634,7 +730,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 118371,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018Toyota4Runner",
@@ -647,7 +745,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 118371,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018ToyotaCorolla",
@@ -660,7 +760,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 90035,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2018ToyotaCorolla",
@@ -673,7 +775,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 90035,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordF-150",
@@ -686,7 +790,9 @@
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 123225,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordF-150",
@@ -699,7 +805,9 @@
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 123225,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordFlex",
@@ -712,7 +820,9 @@
       "price": 25995.0,
       "price_currency": "CAD",
       "odometer_km": 88409,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordFlex",
@@ -725,7 +835,9 @@
       "price": 25995.0,
       "price_currency": "CAD",
       "odometer_km": 88409,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordFusion",
@@ -738,7 +850,9 @@
       "price": 19995.0,
       "price_currency": "CAD",
       "odometer_km": 127804,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordFusion",
@@ -751,7 +865,9 @@
       "price": 19995.0,
       "price_currency": "CAD",
       "odometer_km": 127804,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -764,7 +880,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 96191,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -777,7 +895,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 96191,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -790,7 +910,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 73790,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -803,7 +925,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 73790,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -816,7 +940,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 113245,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019FordTransit Connect",
@@ -829,7 +955,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 113245,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019JeepCompass",
@@ -842,7 +970,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 129128,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2019JeepCompass",
@@ -855,7 +985,9 @@
       "price": 16995.0,
       "price_currency": "CAD",
       "odometer_km": 129128,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021AudiQ5",
@@ -868,7 +1000,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 91656,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021AudiQ5",
@@ -881,7 +1015,9 @@
       "price": 29995.0,
       "price_currency": "CAD",
       "odometer_km": 91656,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordEscape",
@@ -894,7 +1030,9 @@
       "price": 20995.0,
       "price_currency": "CAD",
       "odometer_km": 120000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordEscape",
@@ -907,7 +1045,9 @@
       "price": 20995.0,
       "price_currency": "CAD",
       "odometer_km": 120000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordMustang Mach-E",
@@ -920,7 +1060,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 77017,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordMustang Mach-E",
@@ -933,7 +1075,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 77017,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordMustang Mach-E",
@@ -946,7 +1090,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 57506,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021FordMustang Mach-E",
@@ -959,7 +1105,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 57506,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Land RoverRange Rover",
@@ -972,7 +1120,9 @@
       "price": 54995.0,
       "price_currency": "CAD",
       "odometer_km": 48387,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Land RoverRange Rover",
@@ -985,7 +1135,9 @@
       "price": 54995.0,
       "price_currency": "CAD",
       "odometer_km": 48387,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021MazdaCX-5",
@@ -998,7 +1150,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 49071,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021MazdaCX-5",
@@ -1011,7 +1165,9 @@
       "price": 34995.0,
       "price_currency": "CAD",
       "odometer_km": 49071,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Mercedes-BenzGLS",
@@ -1024,7 +1180,9 @@
       "price": 75995.0,
       "price_currency": "CAD",
       "odometer_km": 67959,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Mercedes-BenzGLS",
@@ -1037,7 +1195,9 @@
       "price": 75995.0,
       "price_currency": "CAD",
       "odometer_km": 67959,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Toyota4Runner",
@@ -1050,7 +1210,9 @@
       "price": 58995.0,
       "price_currency": "CAD",
       "odometer_km": 60170,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021Toyota4Runner",
@@ -1063,7 +1225,9 @@
       "price": 58995.0,
       "price_currency": "CAD",
       "odometer_km": 60170,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021ToyotaTacoma",
@@ -1076,7 +1240,9 @@
       "price": 46995.0,
       "price_currency": "CAD",
       "odometer_km": 126070,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021ToyotaTacoma",
@@ -1089,7 +1255,9 @@
       "price": 46995.0,
       "price_currency": "CAD",
       "odometer_km": 126070,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021VolkswagenJetta",
@@ -1102,7 +1270,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 127061,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2021VolkswagenJetta",
@@ -1115,7 +1285,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 127061,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022AudiQ3",
@@ -1128,7 +1300,9 @@
       "price": 35995.0,
       "price_currency": "CAD",
       "odometer_km": 39978,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022AudiQ3",
@@ -1141,7 +1315,9 @@
       "price": 35995.0,
       "price_currency": "CAD",
       "odometer_km": 39978,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022ChevroletMalibu",
@@ -1154,7 +1330,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 98567,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022ChevroletMalibu",
@@ -1167,7 +1345,9 @@
       "price": 21995.0,
       "price_currency": "CAD",
       "odometer_km": 98567,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEdge",
@@ -1180,7 +1360,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 140000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEdge",
@@ -1193,7 +1375,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 140000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEscape",
@@ -1206,7 +1390,9 @@
       "price": 28995.0,
       "price_currency": "CAD",
       "odometer_km": 41412,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEscape",
@@ -1219,7 +1405,9 @@
       "price": 28995.0,
       "price_currency": "CAD",
       "odometer_km": 41412,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEscape",
@@ -1232,7 +1420,9 @@
       "price": 28995.0,
       "price_currency": "CAD",
       "odometer_km": 41945,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordEscape",
@@ -1245,7 +1435,9 @@
       "price": 28995.0,
       "price_currency": "CAD",
       "odometer_km": 41945,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150",
@@ -1258,7 +1450,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 92538,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150",
@@ -1271,7 +1465,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 92538,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150",
@@ -1284,7 +1480,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 73418,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022FordF-150",
@@ -1297,7 +1495,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 73418,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022RAM1500",
@@ -1310,7 +1510,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 94081,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2022RAM1500",
@@ -1323,7 +1525,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 94081,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordEscape",
@@ -1336,7 +1540,9 @@
       "price": 25995.0,
       "price_currency": "CAD",
       "odometer_km": 48251,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordEscape",
@@ -1349,7 +1555,9 @@
       "price": 25995.0,
       "price_currency": "CAD",
       "odometer_km": 48251,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150",
@@ -1362,7 +1570,9 @@
       "price": 53995.0,
       "price_currency": "CAD",
       "odometer_km": 51317,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-150",
@@ -1375,7 +1585,9 @@
       "price": 53995.0,
       "price_currency": "CAD",
       "odometer_km": 51317,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-350",
@@ -1388,7 +1600,9 @@
       "price": 99995.0,
       "price_currency": "CAD",
       "odometer_km": 65567,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-350",
@@ -1401,7 +1615,9 @@
       "price": 99995.0,
       "price_currency": "CAD",
       "odometer_km": 65567,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-350",
@@ -1414,7 +1630,9 @@
       "price": 96995.0,
       "price_currency": "CAD",
       "odometer_km": 45449,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordF-350",
@@ -1427,7 +1645,9 @@
       "price": 96995.0,
       "price_currency": "CAD",
       "odometer_km": 45449,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordTransit",
@@ -1440,7 +1660,9 @@
       "price": 48995.0,
       "price_currency": "CAD",
       "odometer_km": 55032,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordTransit",
@@ -1453,7 +1675,9 @@
       "price": 48995.0,
       "price_currency": "CAD",
       "odometer_km": 55032,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordTransit",
@@ -1466,7 +1690,9 @@
       "price": 47995.0,
       "price_currency": "CAD",
       "odometer_km": 98519,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023FordTransit",
@@ -1479,7 +1705,9 @@
       "price": 47995.0,
       "price_currency": "CAD",
       "odometer_km": 98519,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1492,7 +1720,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 64144,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1505,7 +1735,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 64144,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1518,7 +1750,9 @@
       "price": 41995.0,
       "price_currency": "CAD",
       "odometer_km": 49160,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1531,7 +1765,9 @@
       "price": 41995.0,
       "price_currency": "CAD",
       "odometer_km": 49160,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1544,7 +1780,9 @@
       "price": 39995.0,
       "price_currency": "CAD",
       "odometer_km": 77110,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023JeepWrangler",
@@ -1557,7 +1795,9 @@
       "price": 39995.0,
       "price_currency": "CAD",
       "odometer_km": 77110,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023Land RoverEvoque",
@@ -1570,7 +1810,9 @@
       "price": 36995.0,
       "price_currency": "CAD",
       "odometer_km": 52572,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023Land RoverEvoque",
@@ -1583,7 +1825,9 @@
       "price": 36995.0,
       "price_currency": "CAD",
       "odometer_km": 52572,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023LincolnAviator",
@@ -1596,7 +1840,9 @@
       "price": 55995.0,
       "price_currency": "CAD",
       "odometer_km": 71401,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023LincolnAviator",
@@ -1609,7 +1855,9 @@
       "price": 55995.0,
       "price_currency": "CAD",
       "odometer_km": 71401,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023TeslaModel 3",
@@ -1622,7 +1870,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 56755,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023TeslaModel 3",
@@ -1635,7 +1885,9 @@
       "price": 42995.0,
       "price_currency": "CAD",
       "odometer_km": 56755,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023Toyota4Runner",
@@ -1648,7 +1900,9 @@
       "price": 64995.0,
       "price_currency": "CAD",
       "odometer_km": 33168,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023Toyota4Runner",
@@ -1661,7 +1915,9 @@
       "price": 64995.0,
       "price_currency": "CAD",
       "odometer_km": 33168,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023ToyotaCamry",
@@ -1674,7 +1930,9 @@
       "price": 35995.0,
       "price_currency": "CAD",
       "odometer_km": 64522,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2023ToyotaCamry",
@@ -1687,7 +1945,9 @@
       "price": 35995.0,
       "price_currency": "CAD",
       "odometer_km": 64522,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024BMWX5",
@@ -1700,7 +1960,9 @@
       "price": 72995.0,
       "price_currency": "CAD",
       "odometer_km": 48400,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024BMWX5",
@@ -1713,7 +1975,9 @@
       "price": 72995.0,
       "price_currency": "CAD",
       "odometer_km": 48400,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1726,7 +1990,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 40317,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1739,7 +2005,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 40317,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1752,7 +2020,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 42991,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1765,7 +2035,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 42991,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1778,7 +2050,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45093,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1791,7 +2065,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45093,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1804,7 +2080,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45128,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1817,7 +2095,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45128,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1830,7 +2110,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 46552,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1843,7 +2125,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 46552,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1856,7 +2140,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 47752,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1869,7 +2155,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 47752,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1882,7 +2170,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 44002,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1895,7 +2185,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 44002,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1908,7 +2200,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 53557,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1921,7 +2215,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 53557,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1934,7 +2230,9 @@
       "price": 22995.0,
       "price_currency": "CAD",
       "odometer_km": 50557,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1947,7 +2245,9 @@
       "price": 22995.0,
       "price_currency": "CAD",
       "odometer_km": 50557,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1960,7 +2260,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 48084,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1973,7 +2275,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 48084,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1986,7 +2290,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 44474,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -1999,7 +2305,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 44474,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2012,7 +2320,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45424,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2025,7 +2335,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 45424,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2038,7 +2350,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 46841,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2051,7 +2365,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 46841,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2064,7 +2380,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 47736,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChevroletMalibu",
@@ -2077,7 +2395,9 @@
       "price": 23995.0,
       "price_currency": "CAD",
       "odometer_km": 47736,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChryslerPacifica",
@@ -2090,7 +2410,9 @@
       "price": 49995.0,
       "price_currency": "CAD",
       "odometer_km": 48470,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ChryslerPacifica",
@@ -2103,7 +2425,9 @@
       "price": 49995.0,
       "price_currency": "CAD",
       "odometer_km": 48470,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024DodgeCharger Daytona",
@@ -2116,7 +2440,9 @@
       "price": 51995.0,
       "price_currency": "CAD",
       "odometer_km": 7057,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024DodgeCharger Daytona",
@@ -2129,7 +2455,9 @@
       "price": 51995.0,
       "price_currency": "CAD",
       "odometer_km": 7057,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco",
@@ -2142,7 +2470,9 @@
       "price": 89995.0,
       "price_currency": "CAD",
       "odometer_km": 54961,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordBronco",
@@ -2155,7 +2485,9 @@
       "price": 89995.0,
       "price_currency": "CAD",
       "odometer_km": 54961,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordF-350",
@@ -2168,7 +2500,9 @@
       "price": 69995.0,
       "price_currency": "CAD",
       "odometer_km": 51830,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordF-350",
@@ -2181,7 +2515,9 @@
       "price": 69995.0,
       "price_currency": "CAD",
       "odometer_km": 51830,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordMustang Mach-E",
@@ -2194,7 +2530,9 @@
       "price": 39995.0,
       "price_currency": "CAD",
       "odometer_km": 36400,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordMustang Mach-E",
@@ -2207,7 +2545,9 @@
       "price": 39995.0,
       "price_currency": "CAD",
       "odometer_km": 36400,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024HondaCR-V Hybrid",
@@ -2220,7 +2560,9 @@
       "price": 48995.0,
       "price_currency": "CAD",
       "odometer_km": 23210,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024HondaCR-V Hybrid",
@@ -2233,7 +2575,9 @@
       "price": 48995.0,
       "price_currency": "CAD",
       "odometer_km": 23210,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024HyundaiElantra",
@@ -2246,7 +2590,9 @@
       "price": 26995.0,
       "price_currency": "CAD",
       "odometer_km": 54418,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024HyundaiElantra",
@@ -2259,7 +2605,9 @@
       "price": 26995.0,
       "price_currency": "CAD",
       "odometer_km": 54418,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024MazdaMAZDA3",
@@ -2272,7 +2620,9 @@
       "price": 27995.0,
       "price_currency": "CAD",
       "odometer_km": 40152,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024MazdaMAZDA3",
@@ -2285,7 +2635,9 @@
       "price": 27995.0,
       "price_currency": "CAD",
       "odometer_km": 40152,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024Mercedes-BenzSprinter",
@@ -2298,7 +2650,9 @@
       "price": 58995.0,
       "price_currency": "CAD",
       "odometer_km": 5689,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024Mercedes-BenzSprinter",
@@ -2311,7 +2665,9 @@
       "price": 58995.0,
       "price_currency": "CAD",
       "odometer_km": 5689,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024TeslaModel 3",
@@ -2324,7 +2680,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 4030,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024TeslaModel 3",
@@ -2337,7 +2695,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 4030,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaCamry",
@@ -2350,7 +2710,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 48195,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaCamry",
@@ -2363,7 +2725,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 48195,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaCamry",
@@ -2376,7 +2740,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 48913,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024ToyotaCamry",
@@ -2389,7 +2755,9 @@
       "price": 32995.0,
       "price_currency": "CAD",
       "odometer_km": 48913,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025AudiA3",
@@ -2402,7 +2770,9 @@
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 37489,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025AudiA3",
@@ -2415,7 +2785,9 @@
       "price": 37995.0,
       "price_currency": "CAD",
       "odometer_km": 37489,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025ChevroletSilverado 3500",
@@ -2428,7 +2800,9 @@
       "price": 97995.0,
       "price_currency": "CAD",
       "odometer_km": 22000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025ChevroletSilverado 3500",
@@ -2441,7 +2815,9 @@
       "price": 97995.0,
       "price_currency": "CAD",
       "odometer_km": 22000,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2454,7 +2830,9 @@
       "price": 44149.0,
       "price_currency": "CAD",
       "odometer_km": 13404,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2467,7 +2845,9 @@
       "price": 44149.0,
       "price_currency": "CAD",
       "odometer_km": 13404,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordExpedition",
@@ -2480,7 +2860,9 @@
       "price": 97995.0,
       "price_currency": "CAD",
       "odometer_km": 28970,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordExpedition",
@@ -2493,7 +2875,9 @@
       "price": 97995.0,
       "price_currency": "CAD",
       "odometer_km": 28970,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordExplorer",
@@ -2506,7 +2890,9 @@
       "price": 59995.0,
       "price_currency": "CAD",
       "odometer_km": 32011,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordExplorer",
@@ -2519,7 +2905,9 @@
       "price": 59995.0,
       "price_currency": "CAD",
       "odometer_km": 32011,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordF-350",
@@ -2532,7 +2920,9 @@
       "price": 119995.0,
       "price_currency": "CAD",
       "odometer_km": 9105,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordF-350",
@@ -2545,7 +2935,9 @@
       "price": 119995.0,
       "price_currency": "CAD",
       "odometer_km": 9105,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverick",
@@ -2558,7 +2950,9 @@
       "price": 45995.0,
       "price_currency": "CAD",
       "odometer_km": 6455,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverick",
@@ -2571,7 +2965,9 @@
       "price": 45995.0,
       "price_currency": "CAD",
       "odometer_km": 6455,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverick",
@@ -2584,7 +2980,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 27307,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordMaverick",
@@ -2597,7 +2995,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 27307,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordRanger",
@@ -2610,7 +3010,9 @@
       "price": 49995.0,
       "price_currency": "CAD",
       "odometer_km": 20066,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordRanger",
@@ -2623,7 +3025,9 @@
       "price": 49995.0,
       "price_currency": "CAD",
       "odometer_km": 20066,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025HyundaiElantra",
@@ -2636,7 +3040,9 @@
       "price": 26995.0,
       "price_currency": "CAD",
       "odometer_km": 15123,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025HyundaiElantra",
@@ -2649,7 +3055,9 @@
       "price": 26995.0,
       "price_currency": "CAD",
       "odometer_km": 15123,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025MazdaCX-30",
@@ -2662,7 +3070,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 23022,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025MazdaCX-30",
@@ -2675,7 +3085,9 @@
       "price": 30995.0,
       "price_currency": "CAD",
       "odometer_km": 23022,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026HondaCivic",
@@ -2688,7 +3100,9 @@
       "price": 38995.0,
       "price_currency": "CAD",
       "odometer_km": 19148,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026HondaCivic",
@@ -2701,7 +3115,9 @@
       "price": 38995.0,
       "price_currency": "CAD",
       "odometer_km": 19148,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaCarnival",
@@ -2713,7 +3129,9 @@
       "last_verified": "2026-09-27T01:51:43",
       "price": 53995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaCarnival",
@@ -2725,7 +3143,9 @@
       "last_verified": "2026-09-27T01:51:56",
       "price": 53995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaCarnival",
@@ -2737,7 +3157,9 @@
       "last_verified": "2026-09-25T00:31:12",
       "price": 54995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaCarnival",
@@ -2749,7 +3171,9 @@
       "last_verified": "2026-09-25T00:31:23",
       "price": 54995.0,
       "price_currency": "CAD",
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaSportage",
@@ -2762,7 +3186,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 9420,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026KiaSportage",
@@ -2775,7 +3201,9 @@
       "price": 44995.0,
       "price_currency": "CAD",
       "odometer_km": 9420,
-      "condition": "used"
+      "condition": "used",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150",
@@ -2786,7 +3214,9 @@
       "source_url": "https://keywestford.com/inventory/2024-ford-f-150/14837072",
       "dealer_url": "https://keywestford.com/inventory/2024-ford-f-150/14837072?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:23:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2024FordF-150",
@@ -2797,7 +3227,9 @@
       "source_url": "https://keywestford.com/inventory/2024-ford-f-150/14837072?openModal=modal-vdp-form-1",
       "dealer_url": "https://keywestford.com/inventory/2024-ford-f-150/14837072?openModal=modal-vdp-form-1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T03:24:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2811,7 +3243,9 @@
       "price": 51144.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2825,7 +3259,9 @@
       "price": 51144.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2839,7 +3275,9 @@
       "price": 47244.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2853,7 +3291,9 @@
       "price": 47244.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2866,7 +3306,9 @@
       "price": 47494.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2879,7 +3321,9 @@
       "price": 47494.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2893,7 +3337,9 @@
       "price": 47894.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2907,7 +3353,9 @@
       "price": 47894.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2921,7 +3369,9 @@
       "price": 50794.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2025FordEscape",
@@ -2935,7 +3385,9 @@
       "price": 50794.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -2949,7 +3401,9 @@
       "price": 42860.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -2963,7 +3417,9 @@
       "price": 42860.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -2977,7 +3433,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -2991,7 +3449,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3005,7 +3465,9 @@
       "price": 46985.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3019,7 +3481,9 @@
       "price": 46985.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3033,7 +3497,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3047,7 +3513,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3061,7 +3529,9 @@
       "price": 46790.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3075,7 +3545,9 @@
       "price": 46790.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3089,7 +3561,9 @@
       "price": 42365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3103,7 +3577,9 @@
       "price": 42365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3117,7 +3593,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3131,7 +3609,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3145,7 +3625,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3159,7 +3641,9 @@
       "price": 45990.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3173,7 +3657,9 @@
       "price": 42365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3187,7 +3673,9 @@
       "price": 42365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3201,7 +3689,9 @@
       "price": 43660.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3215,7 +3705,9 @@
       "price": 43660.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3229,7 +3721,9 @@
       "price": 42860.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3243,7 +3737,9 @@
       "price": 42860.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3256,7 +3752,9 @@
       "last_verified": "2026-09-25T01:05:55",
       "price": 58529.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco Sport",
@@ -3269,7 +3767,9 @@
       "last_verified": "2026-09-25T01:06:06",
       "price": 58529.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3282,7 +3782,9 @@
       "last_verified": "2026-09-25T01:06:18",
       "price": 85510.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3295,7 +3797,9 @@
       "last_verified": "2026-09-25T01:06:34",
       "price": 85510.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3309,7 +3813,9 @@
       "price": 56155.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3323,7 +3829,9 @@
       "price": 56155.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3337,7 +3845,9 @@
       "price": 56155.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3351,7 +3861,9 @@
       "price": 56155.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3364,7 +3876,9 @@
       "last_verified": "2026-09-25T01:07:31",
       "price": 61800.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordBronco",
@@ -3378,7 +3892,9 @@
       "price": 61800.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -3392,7 +3908,9 @@
       "price": 74980.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordExplorer",
@@ -3406,7 +3924,9 @@
       "price": 74980.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3419,7 +3939,9 @@
       "last_verified": "2026-09-25T01:08:21",
       "price": 70045.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3433,7 +3955,9 @@
       "price": 70045.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3446,7 +3970,9 @@
       "last_verified": "2026-09-25T01:08:48",
       "price": 83725.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3460,7 +3986,9 @@
       "price": 83725.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3474,7 +4002,9 @@
       "price": 79785.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3488,7 +4018,9 @@
       "price": 79785.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3502,7 +4034,9 @@
       "price": 79785.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3515,7 +4049,9 @@
       "last_verified": "2026-09-25T01:09:52",
       "price": 79785.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3528,7 +4064,9 @@
       "last_verified": "2026-09-25T01:10:02",
       "price": 86600.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3541,7 +4079,9 @@
       "last_verified": "2026-09-25T01:10:20",
       "price": 86600.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3554,7 +4094,9 @@
       "last_verified": "2026-09-25T01:10:31",
       "price": 79785.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3567,7 +4109,9 @@
       "last_verified": "2026-09-25T01:10:40",
       "price": 79785.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3580,7 +4124,9 @@
       "last_verified": "2026-09-25T01:10:58",
       "price": 91680.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3594,7 +4140,9 @@
       "price": 91680.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3608,7 +4156,9 @@
       "price": 91680.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3621,7 +4171,9 @@
       "last_verified": "2026-09-25T01:11:30",
       "price": 91680.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3633,7 +4185,9 @@
       "last_verified": "2026-09-25T01:11:40",
       "price": 99620.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3645,7 +4199,9 @@
       "last_verified": "2026-09-25T01:11:50",
       "price": 99620.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3659,7 +4215,9 @@
       "price": 87105.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3672,7 +4230,9 @@
       "last_verified": "2026-09-25T01:12:12",
       "price": 87105.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3686,7 +4246,9 @@
       "price": 88880.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3700,7 +4262,9 @@
       "price": 88880.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3712,7 +4276,9 @@
       "last_verified": "2026-09-25T01:12:45",
       "price": 76495.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3724,7 +4290,9 @@
       "last_verified": "2026-09-25T01:12:57",
       "price": 76495.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3738,7 +4306,9 @@
       "price": 81410.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3752,7 +4322,9 @@
       "price": 81410.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3765,7 +4337,9 @@
       "last_verified": "2026-09-25T01:13:29",
       "price": 69960.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3779,7 +4353,9 @@
       "price": 69960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3792,7 +4368,9 @@
       "last_verified": "2026-09-25T01:13:50",
       "price": 76595.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3806,7 +4384,9 @@
       "price": 76595.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3819,7 +4399,9 @@
       "last_verified": "2026-09-25T01:14:09",
       "price": 76595.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3833,7 +4415,9 @@
       "price": 76595.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3847,7 +4431,9 @@
       "price": 81410.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3861,7 +4447,9 @@
       "price": 81410.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3875,7 +4463,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3889,7 +4479,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3902,7 +4494,9 @@
       "last_verified": "2026-09-25T01:15:15",
       "price": 70945.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3915,7 +4509,9 @@
       "last_verified": "2026-09-25T01:15:25",
       "price": 70945.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3928,7 +4524,9 @@
       "last_verified": "2026-09-25T01:15:35",
       "price": 77185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3942,7 +4540,9 @@
       "price": 77185.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3955,7 +4555,9 @@
       "last_verified": "2026-09-25T01:15:55",
       "price": 62510.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3969,7 +4571,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3983,7 +4587,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -3996,7 +4602,9 @@
       "last_verified": "2026-09-25T01:16:30",
       "price": 62510.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4009,7 +4617,9 @@
       "last_verified": "2026-09-25T01:16:42",
       "price": 84860.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4023,7 +4633,9 @@
       "price": 84860.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4036,7 +4648,9 @@
       "last_verified": "2026-09-25T01:17:04",
       "price": 69960.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4050,7 +4664,9 @@
       "price": 69960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4064,7 +4680,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4078,7 +4696,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4091,7 +4711,9 @@
       "last_verified": "2026-09-25T01:17:48",
       "price": 72395.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4105,7 +4727,9 @@
       "price": 72395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4119,7 +4743,9 @@
       "price": 72145.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4132,7 +4758,9 @@
       "last_verified": "2026-09-25T01:18:18",
       "price": 72145.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4146,7 +4774,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4160,7 +4790,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4174,7 +4806,9 @@
       "price": 72395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4188,7 +4822,9 @@
       "price": 72395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4202,7 +4838,9 @@
       "price": 98070.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4216,7 +4854,9 @@
       "price": 98070.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4229,7 +4869,9 @@
       "last_verified": "2026-09-25T01:19:36",
       "price": 67535.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4243,7 +4885,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4256,7 +4900,9 @@
       "last_verified": "2026-09-25T01:19:58",
       "price": 78360.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4270,7 +4916,9 @@
       "price": 78360.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4283,7 +4931,9 @@
       "last_verified": "2026-09-25T01:20:20",
       "price": 78360.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4296,7 +4946,9 @@
       "last_verified": "2026-09-25T01:20:29",
       "price": 78360.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4310,7 +4962,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4324,7 +4978,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4337,7 +4993,9 @@
       "last_verified": "2026-09-25T01:21:01",
       "price": 67535.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4351,7 +5009,9 @@
       "price": 67535.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4365,7 +5025,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4378,7 +5040,9 @@
       "last_verified": "2026-09-25T01:21:34",
       "price": 69570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4392,7 +5056,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4406,7 +5072,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4419,7 +5087,9 @@
       "last_verified": "2026-09-25T01:22:06",
       "price": 69570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4433,7 +5103,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4446,7 +5118,9 @@
       "last_verified": "2026-09-25T01:22:27",
       "price": 69570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4460,7 +5134,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4474,7 +5150,9 @@
       "price": 72145.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4488,7 +5166,9 @@
       "price": 72145.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4502,7 +5182,9 @@
       "price": 77810.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4515,7 +5197,9 @@
       "last_verified": "2026-09-25T01:23:22",
       "price": 77810.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4528,7 +5212,9 @@
       "last_verified": "2026-09-25T01:23:32",
       "price": 71820.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4542,7 +5228,9 @@
       "price": 71820.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4555,7 +5243,9 @@
       "last_verified": "2026-09-25T01:23:51",
       "price": 62510.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4569,7 +5259,9 @@
       "price": 62510.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4583,7 +5275,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4597,7 +5291,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4610,7 +5306,9 @@
       "last_verified": "2026-09-25T01:24:36",
       "price": 71770.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4624,7 +5322,9 @@
       "price": 71770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4638,7 +5338,9 @@
       "price": 78935.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4652,7 +5354,9 @@
       "price": 78935.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4665,7 +5369,9 @@
       "last_verified": "2026-09-25T01:25:19",
       "price": 78935.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4679,7 +5385,9 @@
       "price": 78935.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4692,7 +5400,9 @@
       "last_verified": "2026-09-25T01:25:40",
       "price": 85185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4706,7 +5416,9 @@
       "price": 85185.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4719,7 +5431,9 @@
       "last_verified": "2026-09-25T01:26:00",
       "price": 69570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4733,7 +5447,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4746,7 +5462,9 @@
       "last_verified": "2026-09-25T01:26:21",
       "price": 69570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4760,7 +5478,9 @@
       "price": 69570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4773,7 +5493,9 @@
       "last_verified": "2026-09-25T01:26:42",
       "price": 70170.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4787,7 +5509,9 @@
       "price": 70170.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4800,7 +5524,9 @@
       "last_verified": "2026-09-25T01:27:04",
       "price": 85185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4814,7 +5540,9 @@
       "price": 85185.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4827,7 +5555,9 @@
       "last_verified": "2026-09-25T01:27:26",
       "price": 85855.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4841,7 +5571,9 @@
       "price": 85855.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4855,7 +5587,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4869,7 +5603,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4883,7 +5619,9 @@
       "price": 89480.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4897,7 +5635,9 @@
       "price": 89480.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4910,7 +5650,9 @@
       "last_verified": "2026-09-25T01:28:29",
       "price": 89305.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4924,7 +5666,9 @@
       "price": 89305.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4937,7 +5681,9 @@
       "last_verified": "2026-09-25T01:28:49",
       "price": 115170.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4950,7 +5696,9 @@
       "last_verified": "2026-09-25T01:28:59",
       "price": 115170.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4964,7 +5712,9 @@
       "price": 90105.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4978,7 +5728,9 @@
       "price": 90105.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -4991,7 +5743,9 @@
       "last_verified": "2026-09-25T01:29:34",
       "price": 72570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5005,7 +5759,9 @@
       "price": 72570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5019,7 +5775,9 @@
       "price": 72570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5033,7 +5791,9 @@
       "price": 72570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5047,7 +5807,9 @@
       "price": 90105.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5061,7 +5823,9 @@
       "price": 90105.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5074,7 +5838,9 @@
       "last_verified": "2026-09-25T01:30:38",
       "price": 88855.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5088,7 +5854,9 @@
       "price": 88855.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5101,7 +5869,9 @@
       "last_verified": "2026-09-25T01:30:58",
       "price": 100770.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5115,7 +5885,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5128,7 +5900,9 @@
       "last_verified": "2026-09-25T01:31:38",
       "price": 116735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5142,7 +5916,9 @@
       "price": 116735.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5156,7 +5932,9 @@
       "price": 66065.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5169,7 +5947,9 @@
       "last_verified": "2026-09-25T01:32:10",
       "price": 66065.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5183,7 +5963,9 @@
       "price": 66065.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5197,7 +5979,9 @@
       "price": 66065.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5210,7 +5994,9 @@
       "last_verified": "2026-09-25T01:32:43",
       "price": 72570.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5224,7 +6010,9 @@
       "price": 72570.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5237,7 +6025,9 @@
       "last_verified": "2026-09-25T01:33:03",
       "price": 101770.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5251,7 +6041,9 @@
       "price": 101770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5265,7 +6057,9 @@
       "price": 99395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5279,7 +6073,9 @@
       "price": 99395.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5292,7 +6088,9 @@
       "last_verified": "2026-09-25T01:33:50",
       "price": 100020.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5306,7 +6104,9 @@
       "price": 100020.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5319,7 +6119,9 @@
       "last_verified": "2026-09-25T01:34:10",
       "price": 84375.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5333,7 +6135,9 @@
       "price": 84375.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5346,7 +6150,9 @@
       "last_verified": "2026-09-25T01:34:33",
       "price": 84375.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5360,7 +6166,9 @@
       "price": 84375.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5373,7 +6181,9 @@
       "last_verified": "2026-09-25T01:34:55",
       "price": 84375.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5387,7 +6197,9 @@
       "price": 84375.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5401,7 +6213,9 @@
       "price": 77285.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5415,7 +6229,9 @@
       "price": 77285.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5428,7 +6244,9 @@
       "last_verified": "2026-09-25T01:35:38",
       "price": 132185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5441,7 +6259,9 @@
       "last_verified": "2026-09-25T01:35:48",
       "price": 132185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5454,7 +6274,9 @@
       "last_verified": "2026-09-25T01:36:00",
       "price": 90740.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5468,7 +6290,9 @@
       "price": 90740.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5482,7 +6306,9 @@
       "price": 78360.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5496,7 +6322,9 @@
       "price": 78360.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5509,7 +6337,9 @@
       "last_verified": "2026-09-25T01:36:44",
       "price": 100770.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5523,7 +6353,9 @@
       "price": 100770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5537,7 +6369,9 @@
       "price": 72220.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5551,7 +6385,9 @@
       "price": 72220.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5564,7 +6400,9 @@
       "last_verified": "2026-09-25T01:37:27",
       "price": 68605.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-150",
@@ -5577,7 +6415,9 @@
       "last_verified": "2026-09-25T01:37:38",
       "price": 68605.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5591,7 +6431,9 @@
       "price": 98885.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5605,7 +6447,9 @@
       "price": 98885.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5619,7 +6463,9 @@
       "price": 97335.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5633,7 +6479,9 @@
       "price": 97335.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5647,7 +6495,9 @@
       "price": 79643.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5661,7 +6511,9 @@
       "price": 79643.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5673,7 +6525,9 @@
       "last_verified": "2026-09-25T01:38:56",
       "price": 97435.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordF-350",
@@ -5685,7 +6539,9 @@
       "last_verified": "2026-09-25T01:39:10",
       "price": 97435.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5699,7 +6555,9 @@
       "price": 47790.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5713,7 +6571,9 @@
       "price": 47790.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5727,7 +6587,9 @@
       "price": 52145.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5740,7 +6602,9 @@
       "last_verified": "2026-09-25T01:40:03",
       "price": 52145.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5754,7 +6618,9 @@
       "price": 45545.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5768,7 +6634,9 @@
       "price": 45545.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5782,7 +6650,9 @@
       "price": 47345.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5795,7 +6665,9 @@
       "last_verified": "2026-09-25T01:40:50",
       "price": 47345.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5809,7 +6681,9 @@
       "price": 44745.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5822,7 +6696,9 @@
       "last_verified": "2026-09-25T01:41:13",
       "price": 44745.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5836,7 +6712,9 @@
       "price": 46845.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5850,7 +6728,9 @@
       "price": 46845.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5864,7 +6744,9 @@
       "price": 44845.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMaverick",
@@ -5878,7 +6760,9 @@
       "price": 44845.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5890,7 +6774,9 @@
       "last_verified": "2026-09-25T01:42:11",
       "price": 60010.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5902,7 +6788,9 @@
       "last_verified": "2026-09-25T01:42:21",
       "price": 60010.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5914,7 +6802,9 @@
       "last_verified": "2026-09-25T01:42:33",
       "price": 58735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5926,7 +6816,9 @@
       "last_verified": "2026-09-25T01:42:43",
       "price": 58735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5939,7 +6831,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5952,7 +6846,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5965,7 +6861,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5978,7 +6876,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -5991,7 +6891,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6004,7 +6906,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6017,7 +6921,9 @@
       "price": 49090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6030,7 +6936,9 @@
       "price": 49090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6043,7 +6951,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6056,7 +6966,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6069,7 +6981,9 @@
       "price": 53890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6082,7 +6996,9 @@
       "price": 53890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6095,7 +7011,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6108,7 +7026,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6121,7 +7041,9 @@
       "price": 58735.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6134,7 +7056,9 @@
       "price": 58735.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6147,7 +7071,9 @@
       "price": 58735.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6160,7 +7086,9 @@
       "price": 58735.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6173,7 +7101,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6186,7 +7116,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6199,7 +7131,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6212,7 +7146,9 @@
       "price": 53090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6225,7 +7161,9 @@
       "price": 53930.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6238,7 +7176,9 @@
       "price": 53930.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6250,7 +7190,9 @@
       "last_verified": "2026-09-25T01:47:06",
       "price": 60010.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6262,7 +7204,9 @@
       "last_verified": "2026-09-25T01:47:15",
       "price": 60010.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6274,7 +7218,9 @@
       "last_verified": "2026-09-25T01:47:23",
       "price": 52090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6287,7 +7233,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6299,7 +7247,9 @@
       "last_verified": "2026-09-25T01:47:47",
       "price": 55240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6311,7 +7261,9 @@
       "last_verified": "2026-09-25T01:47:56",
       "price": 55240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6323,7 +7275,9 @@
       "last_verified": "2026-09-25T01:48:07",
       "price": 54440.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6335,7 +7289,9 @@
       "last_verified": "2026-09-25T01:48:18",
       "price": 54440.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6348,7 +7304,9 @@
       "price": 54240.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6361,7 +7319,9 @@
       "price": 54240.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6374,7 +7334,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6387,7 +7349,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6399,7 +7363,9 @@
       "last_verified": "2026-09-25T01:49:15",
       "price": 55240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6411,7 +7377,9 @@
       "last_verified": "2026-09-25T01:49:26",
       "price": 55240.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6423,7 +7391,9 @@
       "last_verified": "2026-09-25T01:49:38",
       "price": 54440.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6435,7 +7405,9 @@
       "last_verified": "2026-09-25T01:49:47",
       "price": 54440.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6448,7 +7420,9 @@
       "price": 54240.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6461,7 +7435,9 @@
       "price": 54240.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6474,7 +7450,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6487,7 +7465,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6500,7 +7480,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6513,7 +7495,9 @@
       "price": 53440.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6525,7 +7509,9 @@
       "last_verified": "2026-09-25T01:51:07",
       "price": 53890.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6538,7 +7524,9 @@
       "price": 53890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6551,7 +7539,9 @@
       "price": 55090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6564,7 +7554,9 @@
       "price": 55090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6576,7 +7568,9 @@
       "last_verified": "2026-09-25T01:51:55",
       "price": 59230.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6588,7 +7582,9 @@
       "last_verified": "2026-09-25T01:52:07",
       "price": 59230.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6600,7 +7596,9 @@
       "last_verified": "2026-09-25T01:52:17",
       "price": 59230.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6612,7 +7610,9 @@
       "last_verified": "2026-09-25T01:52:27",
       "price": 59230.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6624,7 +7624,9 @@
       "last_verified": "2026-09-25T01:52:37",
       "price": 58430.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6636,7 +7638,9 @@
       "last_verified": "2026-09-25T01:52:51",
       "price": 58430.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6649,7 +7653,9 @@
       "price": 55890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6662,7 +7668,9 @@
       "price": 55890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6675,7 +7683,9 @@
       "price": 55090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6688,7 +7698,9 @@
       "price": 55090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6701,7 +7713,9 @@
       "price": 58430.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6714,7 +7728,9 @@
       "price": 58430.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6727,7 +7743,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6739,7 +7757,9 @@
       "last_verified": "2026-09-25T01:54:18",
       "price": 52090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6752,7 +7772,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6765,7 +7787,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6777,7 +7801,9 @@
       "last_verified": "2026-09-25T01:54:48",
       "price": 52890.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6790,7 +7816,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6802,7 +7830,9 @@
       "last_verified": "2026-09-25T01:55:09",
       "price": 54735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6814,7 +7844,9 @@
       "last_verified": "2026-09-25T01:55:19",
       "price": 54735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6827,7 +7859,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6839,7 +7873,9 @@
       "last_verified": "2026-09-25T01:55:39",
       "price": 52090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6852,7 +7888,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6865,7 +7903,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6878,7 +7918,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6891,7 +7933,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6904,7 +7948,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6917,7 +7963,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6930,7 +7978,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6943,7 +7993,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6956,7 +8008,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6968,7 +8022,9 @@
       "last_verified": "2026-09-25T01:57:39",
       "price": 52090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6981,7 +8037,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -6994,7 +8052,9 @@
       "price": 52890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7007,7 +8067,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7019,7 +8081,9 @@
       "last_verified": "2026-09-25T01:58:19",
       "price": 52090.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7032,7 +8096,9 @@
       "price": 53890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7045,7 +8111,9 @@
       "price": 53890.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7057,7 +8125,9 @@
       "last_verified": "2026-09-25T01:58:51",
       "price": 54735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7069,7 +8139,9 @@
       "last_verified": "2026-09-25T01:59:02",
       "price": 54735.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7082,7 +8154,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang Mach-E",
@@ -7095,7 +8169,9 @@
       "price": 52090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7108,7 +8184,9 @@
       "last_verified": "2026-09-25T01:59:34",
       "price": 41325.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7121,7 +8199,9 @@
       "last_verified": "2026-09-25T01:59:48",
       "price": 41325.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7134,7 +8214,9 @@
       "last_verified": "2026-09-25T02:00:00",
       "price": 43475.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7148,7 +8230,9 @@
       "price": 43475.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7162,7 +8246,9 @@
       "price": 42125.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7176,7 +8262,9 @@
       "price": 42125.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7189,7 +8277,9 @@
       "last_verified": "2026-09-25T02:00:44",
       "price": 54015.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7203,7 +8293,9 @@
       "price": 54015.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7216,7 +8308,9 @@
       "last_verified": "2026-09-25T02:01:07",
       "price": 46465.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7230,7 +8324,9 @@
       "price": 46465.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7244,7 +8340,9 @@
       "price": 46120.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7257,7 +8355,9 @@
       "last_verified": "2026-09-25T02:01:42",
       "price": 46120.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7271,7 +8371,9 @@
       "price": 43895.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7285,7 +8387,9 @@
       "price": 43895.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7299,7 +8403,9 @@
       "price": 43175.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7313,7 +8419,9 @@
       "price": 43175.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7327,7 +8435,9 @@
       "price": 43120.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7341,7 +8451,9 @@
       "price": 43120.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7355,7 +8467,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7369,7 +8483,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7383,7 +8499,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7397,7 +8515,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7411,7 +8531,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7425,7 +8547,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7439,7 +8563,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7453,7 +8579,9 @@
       "price": 42870.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7467,7 +8595,9 @@
       "price": 55365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7481,7 +8611,9 @@
       "price": 55365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7495,7 +8627,9 @@
       "price": 67770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7509,7 +8643,9 @@
       "price": 67770.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7523,7 +8659,9 @@
       "price": 67020.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7536,7 +8674,9 @@
       "last_verified": "2026-09-25T02:05:16",
       "price": 67020.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7550,7 +8690,9 @@
       "price": 63220.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7563,7 +8705,9 @@
       "last_verified": "2026-09-25T02:05:56",
       "price": 63220.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7576,7 +8720,9 @@
       "last_verified": "2026-09-25T02:06:09",
       "price": 47865.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7590,7 +8736,9 @@
       "price": 47865.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7604,7 +8752,9 @@
       "price": 70375.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordMustang",
@@ -7618,7 +8768,9 @@
       "price": 70375.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7631,7 +8783,9 @@
       "last_verified": "2026-09-25T02:07:20",
       "price": 50995.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7645,7 +8799,9 @@
       "price": 50995.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7659,7 +8815,9 @@
       "price": 54165.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7672,7 +8830,9 @@
       "last_verified": "2026-09-25T02:07:54",
       "price": 54165.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7686,7 +8846,9 @@
       "price": 50420.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7700,7 +8862,9 @@
       "price": 50420.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7714,7 +8878,9 @@
       "price": 52625.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7728,7 +8894,9 @@
       "price": 52625.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7742,7 +8910,9 @@
       "price": 53200.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7756,7 +8926,9 @@
       "price": 53200.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7769,7 +8941,9 @@
       "last_verified": "2026-09-25T02:09:15",
       "price": 46365.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7783,7 +8957,9 @@
       "price": 46365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7797,7 +8973,9 @@
       "price": 46365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordRanger",
@@ -7811,7 +8989,9 @@
       "price": 46365.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7825,7 +9005,9 @@
       "price": 74090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7839,7 +9021,9 @@
       "price": 74090.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7853,7 +9037,9 @@
       "price": 71910.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7867,7 +9053,9 @@
       "price": 71910.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7881,7 +9069,9 @@
       "price": 72925.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7895,7 +9085,9 @@
       "price": 72925.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7909,7 +9101,9 @@
       "price": 76625.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7923,7 +9117,9 @@
       "price": 76625.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7937,7 +9133,9 @@
       "price": 73540.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2026FordTransit",
@@ -7951,7 +9149,9 @@
       "price": 73540.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExpedition",
@@ -7964,7 +9164,9 @@
       "last_verified": "2026-09-25T02:11:54",
       "price": 113095.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExpedition",
@@ -7977,7 +9179,9 @@
       "last_verified": "2026-09-25T02:12:05",
       "price": 113095.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -7991,7 +9195,9 @@
       "price": 77087.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8005,7 +9211,9 @@
       "price": 77087.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8018,7 +9226,9 @@
       "last_verified": "2026-09-25T02:12:36",
       "price": 64215.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8031,7 +9241,9 @@
       "last_verified": "2026-09-25T02:12:46",
       "price": 64215.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8044,7 +9256,9 @@
       "last_verified": "2026-09-25T02:13:01",
       "price": 57185.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8058,7 +9272,9 @@
       "price": 57185.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8071,7 +9287,9 @@
       "last_verified": "2026-09-25T02:13:20",
       "price": 62792.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8085,7 +9303,9 @@
       "price": 62792.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8099,7 +9319,9 @@
       "price": 74595.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8113,7 +9335,9 @@
       "price": 74595.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8126,7 +9350,9 @@
       "last_verified": "2026-09-25T02:13:59",
       "price": 62795.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordExplorer",
@@ -8139,7 +9365,9 @@
       "last_verified": "2026-09-25T02:14:08",
       "price": 62795.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8153,7 +9381,9 @@
       "price": 107404.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8167,7 +9397,9 @@
       "price": 107404.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8181,7 +9413,9 @@
       "price": 131760.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8195,7 +9429,9 @@
       "price": 131760.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8208,7 +9444,9 @@
       "last_verified": "2026-09-25T02:15:04",
       "price": 107404.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8222,7 +9460,9 @@
       "price": 107404.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8235,7 +9475,9 @@
       "last_verified": "2026-09-25T02:15:28",
       "price": 107404.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8249,7 +9491,9 @@
       "price": 107404.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8263,7 +9507,9 @@
       "price": 130960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8277,7 +9523,9 @@
       "price": 130960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8290,7 +9538,9 @@
       "last_verified": "2026-09-25T02:16:12",
       "price": 107404.0,
       "price_currency": "CAD",
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8304,7 +9554,9 @@
       "price": 107404.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8318,7 +9570,9 @@
       "price": 130960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     },
     {
       "name": "2027FordF-350",
@@ -8332,7 +9586,9 @@
       "price": 130960.0,
       "price_currency": "CAD",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "New Westminster",
+      "province": "BC"
     }
   ]
 }
