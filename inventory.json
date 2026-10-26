@@ -1,6 +1,6 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-10-25T19:54:58",
+  "generated_at": "2026-10-26T04:54:58",
   "vehicle_count": 610,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -385,9 +385,7 @@
       "name": "2018ToyotaCorolla",
       "vin": "2T1BURHE2JC010652",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/bc49ed5d5ce6.html",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2018ToyotaCorolla",
