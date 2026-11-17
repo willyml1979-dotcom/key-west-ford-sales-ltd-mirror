@@ -1,6 +1,6 @@
 # Key West Ford Sales Ltd.
 
- dealership in New Westminster. AI-readable inventory mirror, about 614 vehicles.
+ dealership in New Westminster. AI-readable inventory mirror, about 590 vehicles.
 
 - Official website: https://keywestford.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/
