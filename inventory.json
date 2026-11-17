@@ -1,21 +1,25 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-10-26T05:01:58",
-  "vehicle_count": 610,
+  "generated_at": "2026-11-17T00:21:39",
+  "vehicle_count": 614,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2002FordMustang",
-      "vin": "1FAFP40442F127436",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/634597b2c433.html",
-      "condition": "used"
+      "name": "2012ToyotaSienna",
+      "vin": "5TDKK3DC2CS245103",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e42fc88474da.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2002FordMustang",
-      "vin": "1FAFP40442F127436",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/dbb8ffc1a4a8.html",
-      "condition": "used"
+      "name": "2012ToyotaSienna",
+      "vin": "5TDKK3DC2CS245103",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7728169f6f2f.html",
+      "condition": "used",
+      "price": 17995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2012VolkswagenBeetle",
@@ -66,6 +70,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2014FordF-150",
+      "vin": "1FTFW1ET6EFB22660",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/8f46480c7bcf.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2014FordF-150",
+      "vin": "1FTFW1ET6EFB22660",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/a648e000d87f.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2015FordF-150",
       "vin": "1FTEW1EP2FKE25734",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/d26fae00dbe6.html",
@@ -82,22 +102,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015SubaruIMPREZA PREMIUM PLUS",
-      "vin": "JF1GPAK61FH235895",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/91e9aaba37d8.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015SubaruIMPREZA PREMIUM PLUS",
-      "vin": "JF1GPAK61FH235895",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/620046f5bd07.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2016FordF-150",
       "vin": "1FTEW1EG9GKF59156",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/3154766be189.html",
@@ -111,22 +115,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/8f5d35d2ec45.html",
       "condition": "used",
       "price": 29995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016FordF-150",
-      "vin": "1FTEW1EG6GFD26750",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f88b4fd4fe26.html",
-      "condition": "used",
-      "price": 21995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016FordF-150",
-      "vin": "1FTEW1EG6GFD26750",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/6b1c8ffc8926.html",
-      "condition": "used",
-      "price": 21995.0,
       "price_currency": "CAD"
     },
     {
@@ -262,7 +250,7 @@
       "vin": "5J8YD4H85JL801811",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/3405e143d0aa.html",
       "condition": "used",
-      "price": 32995.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -270,7 +258,7 @@
       "vin": "5J8YD4H85JL801811",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/28c475f67c84.html",
       "condition": "used",
-      "price": 32995.0,
+      "price": 30995.0,
       "price_currency": "CAD"
     },
     {
@@ -306,47 +294,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018FordF-150",
-      "vin": "1FTEW1E50JFC35446",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5f4b2dfdef2e.html",
-      "condition": "used"
-    },
-    {
-      "name": "2018FordF-150",
-      "vin": "1FTEW1E50JFC35446",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/d09f549d651d.html",
-      "condition": "used"
-    },
-    {
-      "name": "2018FordTransit",
-      "vin": "1FTYR1YM2JKA18558",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/248db25bf242.html",
+      "name": "2018FordEscape",
+      "vin": "1FMCU0GD2JUC52574",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/83b37514bbb9.html",
       "condition": "used",
-      "price": 19995.0,
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018FordTransit",
-      "vin": "1FTYR1YM2JKA18558",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b322385ef7a6.html",
+      "name": "2018FordEscape",
+      "vin": "1FMCU0GD2JUC52574",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b97414b6a259.html",
       "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018InfinitiQX60",
-      "vin": "5N1DL0MM1JC523979",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/d6849fdef688.html",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018InfinitiQX60",
-      "vin": "5N1DL0MM1JC523979",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/aa83d101616f.html",
-      "condition": "used",
-      "price": 16995.0,
+      "price": 15995.0,
       "price_currency": "CAD"
     },
     {
@@ -392,7 +352,7 @@
       "vin": "2T1BURHE2JC010652",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9fd346419a7b.html",
       "condition": "used",
-      "price": 21995.0,
+      "price": 18995.0,
       "price_currency": "CAD"
     },
     {
@@ -423,6 +383,22 @@
       "name": "2019FordFusion",
       "vin": "3FA6P0RU3KR227347",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/721d69976c3a.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019FordFusion",
+      "vin": "3FA6P0SU4KR211393",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/47846586b284.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019FordFusion",
+      "vin": "3FA6P0SU4KR211393",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/911023d5fdfb.html",
       "condition": "used",
       "price": 19995.0,
       "price_currency": "CAD"
@@ -492,6 +468,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2019LexusNX",
+      "vin": "JTJBARBZ5K2209020",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/3e7e2e40ff14.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019LexusNX",
+      "vin": "JTJBARBZ5K2209020",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/eb156e85f871.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019Mercedes-BenzA250",
+      "vin": "WDD3F4HB5KJ105970",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b7a9ed5ad9dd.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019Mercedes-BenzA250",
+      "vin": "WDD3F4HB5KJ105970",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/ba299b4e4122.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2020FordEscape",
       "vin": "1FMCU0F63LUA17817",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/34849edf92b1.html",
@@ -508,19 +516,83 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021AudiQ5",
-      "vin": "WA1FAAFY2M2023939",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9b92c04094f7.html",
+      "name": "2021BMW3 Series",
+      "vin": "3MW5R7J09M8B86178",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/0f4cae75346f.html",
       "condition": "used",
-      "price": 29995.0,
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021AudiQ5",
-      "vin": "WA1FAAFY2M2023939",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e3fdb907bb7b.html",
+      "name": "2021BMW3 Series",
+      "vin": "3MW5R7J09M8B86178",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/90e1303a0f6c.html",
       "condition": "used",
-      "price": 29995.0,
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9H67MUA41167",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5a1d6f7451e9.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9H67MUA41167",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f18fffdbf0d3.html",
+      "condition": "used",
+      "price": 22995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU0LZ0MUA77960",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/2ec23f23cd74.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU0LZ0MUA77960",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/dedfa36eb9d5.html",
+      "condition": "used",
+      "price": 24995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9DZ8MUA40979",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/45471dd3b57e.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9DZ8MUA40979",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/582f3d09114a.html",
+      "condition": "used",
+      "price": 21995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9H6XMUA41616",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/a1c014331669.html",
+      "condition": "used",
+      "price": 20995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordEscape",
+      "vin": "1FMCU9H6XMUA41616",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/decf16f8cbc0.html",
+      "condition": "used",
+      "price": 20995.0,
       "price_currency": "CAD"
     },
     {
@@ -537,6 +609,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5b823d478e08.html",
       "condition": "used",
       "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordF-150",
+      "vin": "1FTFX1E54MKD06368",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/54d973a55c14.html",
+      "condition": "used",
+      "price": 37995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021FordF-150",
+      "vin": "1FTFX1E54MKD06368",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/98fb76e4efca.html",
+      "condition": "used",
+      "price": 37995.0,
       "price_currency": "CAD"
     },
     {
@@ -569,6 +657,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/fceabf13f353.html",
       "condition": "used",
       "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021KiaForte",
+      "vin": "3KPF54AD6ME391799",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/c2684548eefe.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021KiaForte",
+      "vin": "3KPF54AD6ME391799",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/58d9b66862df.html",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -633,22 +737,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/598522fb2e1b.html",
       "condition": "used",
       "price": 57995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021ToyotaTacoma",
-      "vin": "5TFDZ5BN8MX062028",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/91b92da31525.html",
-      "condition": "used",
-      "price": 46995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021ToyotaTacoma",
-      "vin": "5TFDZ5BN8MX062028",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/8c8368e6b83d.html",
-      "condition": "used",
-      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
@@ -748,35 +836,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022FordF-150",
-      "vin": "1FTEW1EP5NFA75796",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/af773ddd422c.html",
+      "name": "2022HondaCivic",
+      "vin": "2HGFE2F36NH102609",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/06ac1775fb0f.html",
       "condition": "used",
-      "price": 42995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022FordF-150",
-      "vin": "1FTEW1EP5NFA75796",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/516040887c32.html",
+      "name": "2022HondaCivic",
+      "vin": "2HGFE2F36NH102609",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9e44bc021b74.html",
       "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022RAM1500",
-      "vin": "1C6SRFVT0NN111170",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7a6b38a489e0.html",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022RAM1500",
-      "vin": "1C6SRFVT0NN111170",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f96c47308683.html",
-      "condition": "used",
-      "price": 41995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -812,27 +884,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023FordF-350",
-      "vin": "1FT8W3BT0PED85485",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f90c0a5e8bbf.html",
-      "condition": "used",
-      "price": 96995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023FordF-350",
-      "vin": "1FT8W3BT0PED85485",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/aace610947e9.html",
-      "condition": "used",
-      "price": 96995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023FordMustang Mach-E",
       "vin": "3FMTK3R44PMA79318",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/8606e37cde5d.html",
       "condition": "used",
-      "price": 37995.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -840,39 +896,23 @@
       "vin": "3FMTK3R44PMA79318",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/381fdb496d4d.html",
       "condition": "used",
-      "price": 37995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023FordMustang",
-      "vin": "3FMTK3SU2PMA80512",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/13f693b53b11.html",
-      "condition": "used",
-      "price": 36995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023FordMustang",
-      "vin": "3FMTK3SU2PMA80512",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f29a457a3e1a.html",
-      "condition": "used",
-      "price": 36995.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023FordTransit",
-      "vin": "1FTBR2C84PKB26534",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/a44f18b635c8.html",
+      "vin": "1FTBR3U86PKB72130",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7fbe2d861311.html",
       "condition": "used",
-      "price": 46995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2023FordTransit",
-      "vin": "1FTBR2C84PKB26534",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9aede4cfc461.html",
+      "vin": "1FTBR3U86PKB72130",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/6fc9a3762371.html",
       "condition": "used",
-      "price": 46995.0,
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
@@ -1025,22 +1065,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/4c386d1a8c3e.html",
       "condition": "used",
       "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023Toyota4Runner",
-      "vin": "JTERU5JR5P6095339",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/2287cc4bee5f.html",
-      "condition": "used",
-      "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023Toyota4Runner",
-      "vin": "JTERU5JR5P6095339",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5f4108298624.html",
-      "condition": "used",
-      "price": 64995.0,
       "price_currency": "CAD"
     },
     {
@@ -1221,6 +1245,22 @@
     },
     {
       "name": "2024ChevroletMalibu",
+      "vin": "1G1ZD5ST8RF165345",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9d6483708763.html",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024ChevroletMalibu",
+      "vin": "1G1ZD5ST8RF165345",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f457106aa678.html",
+      "condition": "used",
+      "price": 23995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024ChevroletMalibu",
       "vin": "1G1ZD5ST4RF206022",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/d5495dc1d30c.html",
       "condition": "used",
@@ -1300,19 +1340,67 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024FordF-350",
-      "vin": "1FT8W3BT4REC82329",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/da70a61dd3fd.html",
+      "name": "2024FordF-150",
+      "vin": "1FTFW1L5XRKD84070",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b3b26a7fa55e.html",
       "condition": "used",
-      "price": 69995.0,
+      "price": 46995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024FordF-350",
-      "vin": "1FT8W3BT4REC82329",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/279911e4a562.html",
+      "name": "2024FordF-150",
+      "vin": "1FTFW1L5XRKD84070",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/944598993494.html",
       "condition": "used",
-      "price": 69995.0,
+      "price": 46995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTEW3LP9RFB40105",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/756cd85b21ee.html",
+      "condition": "used",
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTEW3LP9RFB40105",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9bfc76a16169.html",
+      "condition": "used",
+      "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTFW3L5XRKD96022",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/15cf466592d4.html",
+      "condition": "used",
+      "price": 51995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTFW3L5XRKD96022",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/4210adcc07cb.html",
+      "condition": "used",
+      "price": 51995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTFW3LDXRFA40931",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9e5b51ed9d17.html",
+      "condition": "used",
+      "price": 52995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024FordF-150",
+      "vin": "1FTFW3LDXRFA40931",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/aed945eca7d4.html",
+      "condition": "used",
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
@@ -1345,22 +1433,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5ca1d3f6bb17.html",
       "condition": "used",
       "price": 75995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordMustang",
-      "vin": "1FA6P8TH4R5126518",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/df4246b7b45f.html",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordMustang",
-      "vin": "1FA6P8TH4R5126518",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/175e73ad2b8c.html",
-      "condition": "used",
-      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -1444,19 +1516,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024ToyotaCamry",
-      "vin": "4T1G11AK5RU202822",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/1c129c5f810a.html",
+      "name": "2024NissanSentra",
+      "vin": "3N1AB8DV2RY336564",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5ff0a2c5396d.html",
       "condition": "used",
-      "price": 30995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024ToyotaCamry",
-      "vin": "4T1G11AK5RU202822",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/97e0995fa3d8.html",
+      "name": "2024NissanSentra",
+      "vin": "3N1AB8DV2RY336564",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/1a6679701af1.html",
       "condition": "used",
-      "price": 30995.0,
+      "price": 26995.0,
       "price_currency": "CAD"
     },
     {
@@ -1540,95 +1612,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025ChevroletSilverado 3500",
-      "vin": "2GC4KVEY8S1145219",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7bbc18b74da4.html",
+      "name": "2025FordMustang Mach-E",
+      "vin": "3FMTK1S57SMA45776",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/ec23c3082f02.html",
       "condition": "used",
-      "price": 97995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025ChevroletSilverado 3500",
-      "vin": "2GC4KVEY8S1145219",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/77df5c7dbba1.html",
+      "name": "2025FordMustang Mach-E",
+      "vin": "3FMTK1S57SMA45776",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b916c094b6d6.html",
       "condition": "used",
-      "price": 97995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordEscape",
-      "vin": "1FMCU0E16SUB09511",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/622a45021703.html",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordEscape",
-      "vin": "1FMCU0E16SUB09511",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b47b5c607bf2.html",
-      "condition": "used",
-      "price": 39995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordExpedition",
-      "vin": "1FMJK1M86SEA15155",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b084540d1e24.html",
-      "condition": "used",
-      "price": 93995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordExpedition",
-      "vin": "1FMJK1M86SEA15155",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/24854913084e.html",
-      "condition": "used",
-      "price": 93995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordExplorer",
-      "vin": "1FMWK8GC3SGB88490",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f6ff405dcfea.html",
-      "condition": "used",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordExplorer",
-      "vin": "1FMWK8GC3SGB88490",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e2178534fde5.html",
-      "condition": "used",
-      "price": 59995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordF-150",
-      "vin": "1FTVW3LK2SWG17130",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/216949c8fbb0.html",
-      "condition": "used"
-    },
-    {
-      "name": "2025FordF-150",
-      "vin": "1FTVW3LK2SWG17130",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b9b345c4e8e0.html",
-      "condition": "used"
-    },
-    {
-      "name": "2025FordF-350",
-      "vin": "1FT8W3BM5SED02974",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/086bd41a667c.html",
-      "condition": "used",
-      "price": 117995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordF-350",
-      "vin": "1FT8W3BM5SED02974",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/db72e4be4129.html",
-      "condition": "used",
-      "price": 117995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -1645,6 +1641,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b069192fbe85.html",
       "condition": "used",
       "price": 49995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025HondaCR-V",
+      "vin": "2HKRS4H54SH101573",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f6d7c278aa53.html",
+      "condition": "used",
+      "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025HondaCR-V",
+      "vin": "2HKRS4H54SH101573",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/09a9cfd9a77a.html",
+      "condition": "used",
+      "price": 40995.0,
       "price_currency": "CAD"
     },
     {
@@ -1708,6 +1720,22 @@
       "condition": "used"
     },
     {
+      "name": "2026FordMaverick",
+      "vin": "3FTTW8BA6TRA70381",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/4287489dbb4f.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordMaverick",
+      "vin": "3FTTW8BA6TRA70381",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/c7a71a22094f.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026HondaCivic",
       "vin": "2HGFE4F84TH007096",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/1a612e509b44.html",
@@ -1769,6 +1797,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/16180f834953.html",
       "condition": "used",
       "price": 44995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MazdaCX-30",
+      "vin": "3MVDMBCL6TM123678",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/3de4fe2af0b1.html",
+      "condition": "used",
+      "price": 36995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026MazdaCX-30",
+      "vin": "3MVDMBCL6TM123678",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/8c77a6313f72.html",
+      "condition": "used",
+      "price": 36995.0,
       "price_currency": "CAD"
     },
     {
