@@ -1,7 +1,7 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-11-17T00:45:48",
-  "vehicle_count": 590,
+  "generated_at": "2026-11-17T21:04:30",
+  "vehicle_count": 596,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -804,6 +804,18 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022FordEscape",
+      "vin": "1FMCU9J91NUB28083",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b7aa4e50e7f8.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022FordEscape",
+      "vin": "1FMCU9J91NUB28083",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/83fd034ac0b1.html",
+      "condition": "used"
+    },
+    {
       "name": "2022FordF-150",
       "vin": "1FTFW1E80NKE27851",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5257cdfcb477.html",
@@ -836,19 +848,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022HondaCivic",
-      "vin": "2HGFE2F36NH102609",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/06ac1775fb0f.html",
+      "name": "2022RAM1500",
+      "vin": "1C6SRFVT0NN111170",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7a6b38a489e0.html",
       "condition": "used",
-      "price": 26995.0,
+      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022HondaCivic",
-      "vin": "2HGFE2F36NH102609",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9e44bc021b74.html",
+      "name": "2022RAM1500",
+      "vin": "1C6SRFVT0NN111170",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/f96c47308683.html",
       "condition": "used",
-      "price": 26995.0,
+      "price": 39995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022ToyotaCorolla",
+      "vin": "5YFBPMBE0NP343618",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/bb0a96ac60ef.html",
+      "condition": "used",
+      "price": 19995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022ToyotaCorolla",
+      "vin": "5YFBPMBE0NP343618",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b84066230a03.html",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
@@ -897,6 +925,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/381fdb496d4d.html",
       "condition": "used",
       "price": 38995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023FordMustang Mach-E",
+      "vin": "3FMTK3SU4PMB07340",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e784f7f15c3e.html",
+      "condition": "used",
+      "price": 42995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023FordMustang Mach-E",
+      "vin": "3FMTK3SU4PMB07340",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e031f36b692a.html",
+      "condition": "used",
+      "price": 42995.0,
       "price_currency": "CAD"
     },
     {
@@ -1711,13 +1755,17 @@
       "name": "2026FordBronco",
       "vin": "1FMEE9BP8TLA76232",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/27dfacfe4a6c.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 83185.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026FordBronco",
       "vin": "1FMEE9BP8TLA76232",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/4af66686c487.html",
-      "condition": "used"
+      "condition": "used",
+      "price": 83185.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026FordMaverick",
