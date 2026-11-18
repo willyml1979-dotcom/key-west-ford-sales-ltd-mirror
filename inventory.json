@@ -1,6 +1,6 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-11-17T21:15:05",
+  "generated_at": "2026-11-18T06:44:28",
   "vehicle_count": 596,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -760,7 +760,7 @@
       "vin": "WA1AUCF32N1097743",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/aeddfba9a978.html",
       "condition": "used",
-      "price": 33995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
@@ -768,7 +768,7 @@
       "vin": "WA1AUCF32N1097743",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/2d59aaef38cb.html",
       "condition": "used",
-      "price": 33995.0,
+      "price": 32995.0,
       "price_currency": "CAD"
     },
     {
