@@ -1,7 +1,7 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-11-18T06:50:10",
-  "vehicle_count": 596,
+  "generated_at": "2026-11-18T15:11:43",
+  "vehicle_count": 584,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -804,23 +804,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022FordEscape",
-      "vin": "1FMCU9J91NUB28083",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b7aa4e50e7f8.html",
-      "condition": "used"
-    },
-    {
-      "name": "2022FordEscape",
-      "vin": "1FMCU9J91NUB28083",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/83fd034ac0b1.html",
-      "condition": "used"
-    },
-    {
       "name": "2022FordF-150",
       "vin": "1FTFW1E80NKE27851",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/5257cdfcb477.html",
       "condition": "used",
-      "price": 42995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -828,7 +816,7 @@
       "vin": "1FTFW1E80NKE27851",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/ab9329e38e57.html",
       "condition": "used",
-      "price": 42995.0,
+      "price": 44995.0,
       "price_currency": "CAD"
     },
     {
@@ -928,22 +916,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023FordMustang Mach-E",
-      "vin": "3FMTK3SU4PMB07340",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e784f7f15c3e.html",
-      "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023FordMustang Mach-E",
-      "vin": "3FMTK3SU4PMB07340",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/e031f36b692a.html",
-      "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023FordTransit",
       "vin": "1FTBR3U86PKB72130",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/7fbe2d861311.html",
@@ -1005,22 +977,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9690f1254add.html",
       "condition": "used",
       "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023JeepWrangler",
-      "vin": "1C4HJXEG0PW632440",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9b075ce26477.html",
-      "condition": "used",
-      "price": 41995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023JeepWrangler",
-      "vin": "1C4HJXEG0PW632440",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/6a81a7b9087e.html",
-      "condition": "used",
-      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -1417,22 +1373,6 @@
     },
     {
       "name": "2024FordF-150",
-      "vin": "1FTFW3L5XRKD96022",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/15cf466592d4.html",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordF-150",
-      "vin": "1FTFW3L5XRKD96022",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/4210adcc07cb.html",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024FordF-150",
       "vin": "1FTFW3LDXRFA40931",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/9e5b51ed9d17.html",
       "condition": "used",
@@ -1656,22 +1596,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025FordMustang Mach-E",
-      "vin": "3FMTK1S57SMA45776",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/ec23c3082f02.html",
-      "condition": "used",
-      "price": 43995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025FordMustang Mach-E",
-      "vin": "3FMTK1S57SMA45776",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b916c094b6d6.html",
-      "condition": "used",
-      "price": 43995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025FordRanger",
       "vin": "1FTER4HHXSLE23229",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/3a96827dcf10.html",
@@ -1797,22 +1721,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/cf1d095601aa.html",
       "condition": "used",
       "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026KiaCarnival",
-      "vin": "KNDNB5KA6T6165183",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/b30988b36527.html",
-      "condition": "used",
-      "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026KiaCarnival",
-      "vin": "KNDNB5KA6T6165183",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/used/cc27a347511f.html",
-      "condition": "used",
-      "price": 53995.0,
       "price_currency": "CAD"
     },
     {
