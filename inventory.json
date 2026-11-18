@@ -1,6 +1,6 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-11-17T21:04:30",
+  "generated_at": "2026-11-17T21:15:05",
   "vehicle_count": 596,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1929,22 +1929,6 @@
     },
     {
       "name": "2026FordBronco Sport",
-      "vin": "3FMCR9CN8TRF30778",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/afbe2f830c55.html",
-      "condition": "new",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordBronco Sport",
-      "vin": "3FMCR9CN8TRF30778",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/794e51facfa4.html",
-      "condition": "new",
-      "price": 45990.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordBronco Sport",
       "vin": "3FMCR9DA1TRF41830",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/4aab861de508.html",
       "condition": "new",
@@ -2053,22 +2037,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/c0086275f90e.html",
       "condition": "new",
       "price": 74980.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordExplorer",
-      "vin": "1FMUK8DH4TGA85104",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/ff5110217795.html",
-      "condition": "new",
-      "price": 54995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordExplorer",
-      "vin": "1FMUK8DH4TGA85104",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/9601cf41f80e.html",
-      "condition": "new",
-      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -2229,6 +2197,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/06b9efc09d6c.html",
       "condition": "new",
       "price": 69960.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTFW3L53TKE24072",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/e6f9c2195c6e.html",
+      "condition": "new",
+      "price": 76595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTFW3L53TKE24072",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/e0d512ed4038.html",
+      "condition": "new",
+      "price": 76595.0,
       "price_currency": "CAD"
     },
     {
@@ -2905,6 +2889,22 @@
     },
     {
       "name": "2026FordF-150",
+      "vin": "1FTFW6LD5TFC52435",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/1e2dfe3f38e9.html",
+      "condition": "new",
+      "price": 110935.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTFW6LD5TFC52435",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/07d430d9f9e6.html",
+      "condition": "new",
+      "price": 110935.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
       "vin": "1FTFW5LD4TFB83036",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/13dba22555fc.html",
       "condition": "new",
@@ -2981,6 +2981,22 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/b5a4044f25b7.html",
       "condition": "new",
       "price": 91458.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTEW2LP2TKF21951",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/d96d118fb9ad.html",
+      "condition": "new",
+      "price": 69410.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026FordF-150",
+      "vin": "1FTEW2LP2TKF21951",
+      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/7ff5c717f267.html",
+      "condition": "new",
+      "price": 69410.0,
       "price_currency": "CAD"
     },
     {
@@ -3649,22 +3665,6 @@
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/2e44114e0a4d.html",
       "condition": "new",
       "price": 52090.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordMustang Mach-E",
-      "vin": "3FMTK3SU1TMA30078",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/4b1e29f8106e.html",
-      "condition": "new",
-      "price": 58735.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordMustang Mach-E",
-      "vin": "3FMTK3SU1TMA30078",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/649fa10a51c1.html",
-      "condition": "new",
-      "price": 58735.0,
       "price_currency": "CAD"
     },
     {
