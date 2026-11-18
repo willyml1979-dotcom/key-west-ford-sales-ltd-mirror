@@ -1,7 +1,7 @@
 {
   "dealership": "Key West Ford Sales Ltd",
-  "generated_at": "2026-11-18T15:11:43",
-  "vehicle_count": 584,
+  "generated_at": "2026-11-18T15:16:29",
+  "vehicle_count": 580,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -3037,22 +3037,6 @@
     },
     {
       "name": "2026FordF-350",
-      "vin": "1FT8W3BT4TEE58867",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/b45232645b28.html",
-      "condition": "new",
-      "price": 97335.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-350",
-      "vin": "1FT8W3BT4TEE58867",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/473bad29133f.html",
-      "condition": "new",
-      "price": 97335.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026FordF-350",
       "vin": "1FT8W3BM4TED99974",
       "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/aa250a6d2426.html",
       "condition": "new",
@@ -4514,18 +4498,6 @@
       "condition": "new",
       "price": 49345.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2027FordTransit",
-      "vin": "1FTBR2C80VKA42322",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/ac2400e7723d.html",
-      "condition": "new"
-    },
-    {
-      "name": "2027FordTransit",
-      "vin": "1FTBR2C80VKA42322",
-      "url": "https://willyml1979-dotcom.github.io/key-west-ford-sales-ltd-mirror/new/45e5ae982a73.html",
-      "condition": "new"
     },
     {
       "name": "2027FordTransit",
